@@ -2,6 +2,14 @@
 
 <a href="https://public.tableau.com/views/COVID-19Dashboard_15858331624970/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link">Dashboard Link</a>
 
+Repository with Tableau to interactively compare cases and deaths by country using the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) data.
+
+
+
+
+
+
+
 The outbreak of the new coronavirus disease (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has quickly become a global health emergency.
 
 - On 31 December 2019, the WHO (World Health Organization) China Country Office was informed of cases of unknown aetiology pneumonia (unknown cause) detected in Wuhan City, Hubei Province of China.
