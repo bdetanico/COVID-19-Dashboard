@@ -1,6 +1,6 @@
 # COVID-19-Dashboard
 
-<a href="https://public.tableau.com/views/COVID-19Dashboard_15858331624970/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link">Dashboard Link</a>
+<a href="https://public.tableau.com/views/COVID-19Dashboard_15858331624970/Dashboard_to_publish?:display_count=y&publish=yes&:origin=viz_share_link">Dashboard Link</a>
 
 Repository with Tableau to interactively compare cases and deaths by country using the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) data.
 
