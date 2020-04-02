@@ -4,11 +4,7 @@
 
 Repository with Tableau to interactively compare cases and deaths by country using the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) data.
 
-
-
-
-
-
+![](https://bdetanico.github.io/COVID-19-Dashboard/COVID-19_Dasboard_gif.gif)
 
 The outbreak of the new coronavirus disease (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has quickly become a global health emergency.
 
