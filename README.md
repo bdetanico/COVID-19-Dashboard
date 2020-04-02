@@ -1,6 +1,6 @@
 # COVID-19-Dashboard
 
-<a href="https://public.tableau.com/views/COVID-19Dashboard_15858331624970/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link">Project Link</a>
+<a href="https://public.tableau.com/views/COVID-19Dashboard_15858331624970/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link">Dashboard Link</a>
 
 The outbreak of the new coronavirus disease (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has quickly become a global health emergency.
 
